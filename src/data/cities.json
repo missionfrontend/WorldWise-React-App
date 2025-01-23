@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "39a4",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "date": "2025-01-19T10:03:54.388Z",
+      "notes": "good",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "39.99791468765748",
+        "lng": "-0.01168601732735697"
+      }
+    }
+  ]
+}
